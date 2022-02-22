@@ -28,10 +28,10 @@ Hi my name is Farhod! I`m from Tashkent,Uzbekistan. My goal is to learn everythi
 ## Code example
 ```
 function highAndLow(numbers){
-const numbersArray = numbers.split(' ').map(number => Number(number))
-const min = Math.min(...numbersArray)
-const max = Math.max(...numbersArray)
-return `${max} ${min}`
+   const numbersArray = numbers.split(' ').map(number => Number(number))
+   const min = Math.min(...numbersArray)
+   const max = Math.max(...numbersArray)
+   return `${max} ${min}`
 }
 ```
 
@@ -56,4 +56,4 @@ return `${max} ${min}`
    [linkedin]: <https://www.linkedin.com/in/bozorovvv/>
    [github]: <https://github.com/Bozorovvv>
    [mail]: <https://www.farhod.jonikulovich@gmail.com>
-   [link]:<https://github.com/Bozorovvv/rsschool-cv/cv>
+   [link]:<https://github.com/Bozorovvv/rsschool-cv/>
